@@ -1,6 +1,11 @@
 # gestion-des-notes
 Application de gestion des notes des étudiants
 
+## Membres du groupe
+- AMENDAH
+- DAGBOVIE
+- KOGLENABA
+- SIMFEYA
 
 ## Objectif
 Nous souhaitons nous doter d'une application permettant de bien gérer les notes des étudiants d'ESGIS.
