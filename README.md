@@ -5,7 +5,7 @@ Application de gestion des notes des étudiants
 - AMENDAH
 - DAGBOVIE
 - KOGLENABA
-- SIMFEYA
+- SINFEYA
 
 ## Objectif
 Nous souhaitons nous doter d'une application permettant de bien gérer les notes des étudiants d'ESGIS.
