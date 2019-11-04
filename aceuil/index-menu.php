@@ -8,8 +8,8 @@
      <link rel="stylesheet" href="font/glyphicons-halflings-regular.ttf"> 
 
      <!-- css -->
-     <script async="" src="acueil/style.js"> </script>
-     <link rel="shortcut icon" href="alienware-normal.ico">
+     <script async="" src="aceuil/style.js"> </script>
+     <link rel="shortcut icon" href="aceuil/alienware-normal.ico">
      <link rel="stylesheet" href="css/bootstrap.min.css">
      <link rel="stylesheet" href="aceuil/style.css">
  </head>
